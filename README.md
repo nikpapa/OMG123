@@ -1,6 +1,11 @@
 OMG123
 ======
 
+License
+-------
+This game is licensed as open source software under GPL 3.0 license. For more information see 
+http://opensource.org/licenses/GPL-3.0
+
 Build Instructions:
 ---------------------------
 1. Download and install Visual Studio 2012 (may also work with other versions of Visual Studio, not tested)
